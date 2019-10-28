@@ -1,0 +1,3 @@
+%{
+  "gettext": {:git, "https://github.com/elixir-gettext/gettext.git", "6306da1e51efa78ad9a6c74f7e50ef6ca2e89c8e", []},
+}
